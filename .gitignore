@@ -1,5 +1,7 @@
 # Environment
 .env
+/tmp/db/*
+!/tmp/db/.gitkeep
 /tmp/images/*
 !/tmp/images/.gitkeep
 
